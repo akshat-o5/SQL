@@ -1,0 +1,3 @@
+// https://www.hackerrank.com/challenges/select-all-sql/submissions/code/310700848
+
+SELECT * FROM CITY;
